@@ -1,0 +1,10 @@
+c:\users\mantr\documents\visual studio 2015\Projects\TTTools\TTTools\bin\Debug\TTTools.exe.config
+c:\users\mantr\documents\visual studio 2015\Projects\TTTools\TTTools\bin\Debug\TTTools.exe
+c:\users\mantr\documents\visual studio 2015\Projects\TTTools\TTTools\bin\Debug\TTTools.pdb
+c:\users\mantr\documents\visual studio 2015\Projects\TTTools\TTTools\obj\Debug\TTTools.csprojResolveAssemblyReference.cache
+c:\users\mantr\documents\visual studio 2015\Projects\TTTools\TTTools\obj\Debug\TTTools.ExtractForm.resources
+c:\users\mantr\documents\visual studio 2015\Projects\TTTools\TTTools\obj\Debug\TTTools.Properties.Resources.resources
+c:\users\mantr\documents\visual studio 2015\Projects\TTTools\TTTools\obj\Debug\TTTools.csproj.GenerateResource.Cache
+c:\users\mantr\documents\visual studio 2015\Projects\TTTools\TTTools\obj\Debug\TTTools.exe
+c:\users\mantr\documents\visual studio 2015\Projects\TTTools\TTTools\obj\Debug\TTTools.pdb
+C:\Users\mantr\documents\visual studio 2015\Projects\TTTools\TTTools\obj\Debug\TTTools.StartForm.resources
